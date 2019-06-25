@@ -7,7 +7,7 @@
            <h1 style="padding-top:150px!important;color:#17a2b8;font-style:bold;">Romulus  Whittaker</h1>
            <h3 style="color:black;">The Official Site</h3>
            <p style="color:black;">
-            An Indian herpetologist, wildlife conservationist and founder of the Madras Snake Park
+           <strong>An Indian herpetologist, wildlife conservationist and founder of the Madras Snake Park</strong>
            </p></div>
          </div>
     </div>
@@ -36,6 +36,7 @@
    .img-container {
      width:60%;
      height: 100%;
+     
      background-color: lightgray;
      float: right;
      background: url("../assets/rome.jpeg") no-repeat center center / cover;

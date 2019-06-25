@@ -7,11 +7,11 @@
       
       <b-nav-item href="#" class="mx-auto"></b-nav-item>
       <b-nav-item class="navvink"  href="Home"><strong>Home</strong></a></b-nav-item>
-      <b-nav-item  class="navvink"><router-link to="FAQ"><strong>FAQ</strong></router-link></b-nav-item>
-      <b-nav-item  class="navvink"><router-link to="News"><strong>News</strong></router-link></b-nav-item>
-      <b-nav-item  class="navvink"><router-link to="Aboutus"><strong>About Us</strong></router-link></b-nav-item>
+      <b-nav-item  class="navvink"><router-link to="#"><strong>FAQ</strong></router-link></b-nav-item>
+      <b-nav-item  class="navvink"><router-link to="#"><strong>News</strong></router-link></b-nav-item>
+      <b-nav-item  class="navvink"><router-link to="#"><strong>About Us</strong></router-link></b-nav-item>
      
-      <b-nav-item  class="navvink"> <router-link to="Contactus"><strong>Contact Us</strong></router-link></b-nav-item>
+      <b-nav-item  class="navvink"> <router-link to="#"><strong>Contact Us</strong></router-link></b-nav-item>
      </b-collapse>
      </b-navbar-nav toggleable="lg"> 
    <b-navbar-brand>
